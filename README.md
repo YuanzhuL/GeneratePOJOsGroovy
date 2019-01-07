@@ -9,7 +9,7 @@
 
 ### 使用步骤
 
-1. 复制文件到idea的Scratches and Console /Extensions/Database Tools and SQL/schema 下
+1. 复制Generate POJOs And Mapper.groovy 文件到idea的Scratches and Console /Extensions/Database Tools and SQL/schema 下
 
    ![1546838555182](C:\Users\ucmed\AppData\Roaming\Typora\typora-user-images\1546838555182.png)
 
